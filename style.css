@@ -49,18 +49,6 @@ section {
     text-decoration: none;
     border-radius: 5px;
 }
-
-.login-container, .profile {
-    max-width: 600px;
-    margin: 50px auto;
-    background: #1f1f1f;
-    padding: 20px;
-    border-radius: 10px;
-}
-.footer {
-    text-align: center;
-    margin-top: 20px;
-}
 .mod-image {
     width: 100%; /* Makes the image responsive */
     max-width: 300px; /* Sets a maximum size for large screens */
